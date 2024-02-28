@@ -235,16 +235,3 @@ footer a:hover {
 .description {
     margin-bottom: 10px;
 }
-
-.metadata {
-    font-size: 0.9em;
-    color: #666;
-}
-
-.metadata .source {
-    margin-right: 10px;
-}
-
-.metadata .date {
-    font-style: italic;
-}
