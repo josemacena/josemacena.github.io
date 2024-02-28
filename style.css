@@ -201,3 +201,50 @@ footer a {
 footer a:hover {
     color: var(--cor1);
 }
+
+/*teste*/
+
+.article {
+    display: flex;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 20px;
+}
+
+.thumbnail {
+    flex-shrink: 0;
+    margin-right: 20px;
+}
+
+.thumbnail img {
+    width: 120px;
+    height: 90px;
+    object-fit: cover;
+}
+
+.title {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.title a {
+    color: #333;
+    text-decoration: none;
+}
+
+.description {
+    margin-bottom: 10px;
+}
+
+.metadata {
+    font-size: 0.9em;
+    color: #666;
+}
+
+.metadata .source {
+    margin-right: 10px;
+}
+
+.metadata .date {
+    font-style: italic;
+}
