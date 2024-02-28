@@ -211,6 +211,10 @@ footer a:hover {
     padding-bottom: 20px;
 }
 
+.article:hover {
+    background-color: var(--cor0);
+}
+
 .thumbnail {
     flex-shrink: 0;
     margin-right: 20px;
