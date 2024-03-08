@@ -207,9 +207,20 @@ footer a:hover {
 }
 
 .thumbnail {
+    display: inline-block;
     width: 300px;
     height: 200px;
 }
+
+
+ 
 #t1 {
-    background-image: url(imagens/thumbnail01.jpg);
+    background-image: url(imagens/thumbnail01.png);
+    height: 150px;
+    width: 200px;
+    background-position: center center;
+}
+
+.detalis {
+    display: inline-block;
 }
